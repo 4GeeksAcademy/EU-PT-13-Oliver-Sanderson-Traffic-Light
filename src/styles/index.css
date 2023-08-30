@@ -24,8 +24,16 @@
 
 .frame {
     width: 150px;
-    height: 350px;
+
     background-color: black;
     padding-top: 25px;
     border-radius: 20px;
+}
+
+.purpleLight {
+    background-color: purple;
+}
+
+.hidden {
+    display: none;
 }
